@@ -192,7 +192,7 @@ input {
   margin: 0 0.5rem;
   font-size: 1.25rem;
 }
-button {
+.button {
   background: var(--clr-primary-10);
 }
 .result {
